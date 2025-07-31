@@ -32,7 +32,7 @@ sudo apt upgrade
 
 --- Install build tools---：
 
-sudo apt install autoconf automake libtool git
+sudo apt install autoconf automake libtool
 
 # How It Works
 
