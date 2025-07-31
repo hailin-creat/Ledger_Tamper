@@ -33,6 +33,8 @@ sudo apt upgrade
 --- Install build tools---：
 
 sudo apt install autoconf automake libtool
+sudo apt install gcc python3-pip
+pip3 install lief
 
 # How It Works
 
