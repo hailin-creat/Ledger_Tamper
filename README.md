@@ -34,18 +34,6 @@ sudo apt upgrade
 
 sudo apt install autoconf automake libtool
 
----Install 32-bit build toolchain and debug libraries---：
-
-sudo apt install gcc-multilib g++-multilib libc6-dev-i386 make libc6-dbg
-
---- Install 32-bit libc debug symbols---：
-
-sudo apt install libc6-dbg:i386
-
---- Enable i386 architecture---：
-
-sudo dpkg --add-architecture i386
-
 # How It Works
 
 1.Target Program
